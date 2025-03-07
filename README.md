@@ -1,6 +1,10 @@
 # rep1
 First repository
 
-xxx
-aaa
-bbb
+Description here
+
+
+### Dependencies
+- dep 1
+- dep 2
+- dep 3
