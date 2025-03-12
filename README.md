@@ -1,10 +1,16 @@
 # rep1
 First repository
 
-Description here
+bla bla bla
+bla bla bla bla bla bla
+aaa
+bbb
+ccc
+ddd
 
+xxx
+yyy
+zzz
 
-### Dependencies
-- dep 1
-- dep 2
-- dep 3
+www
+http
